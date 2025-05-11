@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShabarishRagi/tic-tac-toe/static/css/main.ba0cb6d2.css",
+    "main.js": "/ShabarishRagi/tic-tac-toe/static/js/main.4a7fb36f.js",
+    "index.html": "/ShabarishRagi/tic-tac-toe/index.html",
+    "main.ba0cb6d2.css.map": "/ShabarishRagi/tic-tac-toe/static/css/main.ba0cb6d2.css.map",
+    "main.4a7fb36f.js.map": "/ShabarishRagi/tic-tac-toe/static/js/main.4a7fb36f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba0cb6d2.css",
+    "static/js/main.4a7fb36f.js"
+  ]
+}
